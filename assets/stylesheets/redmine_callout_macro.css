@@ -1,0 +1,28 @@
+.callout {
+  border-style: solid;
+  border-width: 0 0 0 6px;
+  margin: 12px 0 12px 0;
+  padding: 12px 0 12px 18px;
+}
+
+.callout-header {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.callout-info {
+  border-color: #03af7a;
+  background-color: #f0f0f5;
+}
+
+.callout-warning {
+  border-color: #dfd402;
+  background-color: #fffed0;
+  color: #605000;
+}
+
+.callout-danger {
+  border-color: #ff4b00;
+  background-color: #fff0f0;
+  color: #b03000;
+}
