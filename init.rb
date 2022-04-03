@@ -1,10 +1,8 @@
 Redmine::Plugin.register :redmine_callout_macro do
-  require 'callout_macro_hook'
-
   name 'Redmine Callout Macro plugin'
   author 'taikii'
   description 'Add Callouts to wiki.'
-  version '1.0.0'
+  version '1.0.1'
   url 'https://github.com/taikii/redmine_callout_macro'
   author_url 'https://taikii.net/'
 
