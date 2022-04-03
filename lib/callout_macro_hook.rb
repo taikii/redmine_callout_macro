@@ -1,4 +1,4 @@
-class CalloutMacroHookListener < Redmine::Hook::ViewListener
+class CalloutMacroHook < Redmine::Hook::ViewListener
   include ActionView::Helpers::TagHelper
 
   def view_layouts_base_html_head(context={})
