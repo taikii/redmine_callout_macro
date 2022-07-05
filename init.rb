@@ -1,3 +1,5 @@
+require File.expand_path('lib/callout_macro_hook', __dir__)
+
 Redmine::Plugin.register :redmine_callout_macro do
   name 'Redmine Callout Macro plugin'
   author 'taikii'
