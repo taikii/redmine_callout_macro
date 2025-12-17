@@ -6,7 +6,7 @@ Redmine::Plugin.register :redmine_callout_macro do
   description 'Add Callouts to wiki.'
   version '1.0.2'
   url 'https://github.com/taikii/redmine_callout_macro'
-  author_url 'https://taikii.net/'
+  author_url 'https://github.com/taikii'
 
   Redmine::WikiFormatting::Macros.register do
     desc "Add Callouts to wiki. Example:\n\n" +
