@@ -2,6 +2,10 @@
 
 This plugin adds Callouts(Hints, Custom Containers) to wiki formated fields. 
 
+> [!IMPORTANT]
+> If you use `CommonMark Markdown (GitHub Flavored)` for `Text formatting` , you do not need this plugin.  
+> https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
+
 ## Example
 
 ```
